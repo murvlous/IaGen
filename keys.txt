@@ -1,0 +1,5 @@
+OpenAI Key
+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
+
+huggingface Key
+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
